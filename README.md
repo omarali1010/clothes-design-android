@@ -7,7 +7,7 @@ Design will be available for everyone
 
 ##Screenshots
 ###Home Screen
-![ Home Screen](https://github.com/omarali1010/clothes-design-android/blob/main/HomeFragment.png"Home")
+![alt text](https://github.com/omarali1010/clothes-design-android/blob/main/HomeFragment.png)
 ###Favourite Screen
 ![ Favourite Screen](https://github.com/omarali1010/clothes-design-android/blob/main/favFragment.png"Favourite")
 ###Search Screen
