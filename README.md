@@ -13,6 +13,14 @@ at THM university
 for more details about the project in German look at
 ![Projektbericht](https://github.com/omarali1010/clothes-design-android/blob/main/Projektberichtt.pdf)
 
+
+## how to start the App
+to start the App you need android Studio installed
+
+and run the backend from this link :
+
+and follow the instructions there to get the data working in the App
+https://github.com/omarali1010/ClothesDesignBackend
 ## Technologies
 - Android
 - Kotlin
