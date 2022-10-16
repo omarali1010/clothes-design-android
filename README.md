@@ -5,6 +5,14 @@ filtering the New designs .
 The User is able to send his Design to the Server and the
 Design will be available for everyone
 
+## Technologies
+- Android
+- Kotlin
+- XML
+- Ktor (for the Backend)
+- Room-Database
+
+
 ## Screenshots
 
 ### Home Screen
