@@ -11,7 +11,7 @@ This Project was a part from the „Android-Praktikum: Anwendungsentwicklung“ 
 bei Steffen Vaupel – Sommersemester 2022
 at THM university
 for more details about the project in German look at
-![alt text](https://github.com/omarali1010/clothes-design-android/blob/main/Projectbericht.pdf)
+![Projektbericht](https://github.com/omarali1010/clothes-design-android/blob/main/Projektberichtt.pdf)
 
 ## Technologies
 - Android
