@@ -1,10 +1,12 @@
 # clothes-design-android
 
+## Introduction
 Looking at ,searching,adding to Favorite List ,or category
 filtering the New designs .
 The User is able to send his Design to the Server and the
 Design will be available for everyone
 
+## Why the App is built
 This Project was a part from the „Android-Praktikum: Anwendungsentwicklung“ (CS2012)
 bei Steffen Vaupel – Sommersemester 2022
 at THM university
