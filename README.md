@@ -9,10 +9,13 @@ Design will be available for everyone
 ###Home Screen
 ![alt text](https://github.com/omarali1010/clothes-design-android/blob/main/HomeFragment.png)
 ###Favourite Screen
-![ Favourite Screen](https://github.com/omarali1010/clothes-design-android/blob/main/favFragment.png"Favourite")
+![alt text](https://github.com/omarali1010/clothes-design-android/blob/main/
+favFragment.png)
 ###Search Screen
-![ Search for a Certail Design](https://github.com/omarali1010/clothes-design-android/blob/main/search.png"Search")
+![alt text](https://github.com/omarali1010/clothes-design-android/blob/main/search.png)
 ###Details Screen
-![ Details Screen](https://github.com/omarali1010/clothes-design-android/blob/main/details.png" Details Screen")
+![alt text](https://github.com/omarali1010/clothes-design-android/blob/main/
+details.png)
 ###Add Design Screen
-![ Add Screen](https://github.com/omarali1010/clothes-design-android/blob/main/addfragment.png" Add Screen")
+![alt text](https://github.com/omarali1010/clothes-design-android/blob/main/
+addfragment.png)
