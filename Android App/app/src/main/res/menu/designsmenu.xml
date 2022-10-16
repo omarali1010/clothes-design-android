@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_search_24"
+        android:iconTint="@color/white"
+        android:title="@string/search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom"
+        tools:targetApi="o" />
+
+
+    <item
+        android:id="@+id/male"
+        android:icon="@drawable/ic_baseline_male_24"
+        android:iconTint="@color/white"
+        android:title="@string/Men"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="never"
+        tools:targetApi="o"
+
+        />
+    <item
+        android:id="@+id/female"
+        android:icon="@drawable/ic_baseline_female_24"
+        android:iconTint="@color/white"
+        android:title="@string/Women"
+        app:showAsAction="never"
+        tools:targetApi="o"
+
+        />
+    <item
+        android:id="@+id/children"
+        android:icon="@drawable/ic_baseline_child_care_24"
+        android:iconTint="@color/white"
+        android:title="@string/Kids"
+        app:showAsAction="never"
+        tools:targetApi="o"
+
+        />
+    <item
+        android:id="@+id/all"
+        android:icon="@drawable/ic_baseline_man_24"
+        android:iconTint="@color/white"
+        android:title="@string/alll"
+        app:showAsAction="never"
+        tools:targetApi="o"
+
+        />
+
+
+
+</menu>

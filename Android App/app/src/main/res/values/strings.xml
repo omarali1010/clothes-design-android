@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">designme</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add">Add</string>
+    <string name="favourite">Favourite</string>
+    <string name="add_your_design">Add your Design</string>
+    <string name="title">Title</string>
+    <string name="category_men_women_shoes">Category : Men,Women,Shoes....</string>
+    <string name="about_this_design">About this Design</string>
+    <string name="color">Color</string>
+    <string name="submit">Submit</string>
+    <string name="size_xl_l_m">Size : XL,L,M.....</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="photo">Photo</string>
+    <string name="search">search</string>
+    <string name="filter" />
+    <string name="Men">Men</string>
+    <string name="Women">Women</string>
+    <string name="Kids">Kids</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_to_favorites">Save to Favourite</string>
+    <string name="all" />
+    <string name="alll">All</string>
+    <string name="My_Design">Design Me</string>
+    <string name="Add_new">Add New Design</string>
+    <string name="My_Designs" />
+    <string name="My_Desig">Designs Collection</string>
+    <string name="favourites">favourites</string>
+</resources>

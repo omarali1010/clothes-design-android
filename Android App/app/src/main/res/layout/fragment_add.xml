@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="0dp"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/title"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <RadioGroup
+            android:id="@+id/radiogroupcat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:checkedButton="@id/catkids">
+
+            <RadioButton
+                android:id="@+id/catkids"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/Kids" />
+
+            <RadioButton
+                android:id="@+id/catmen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/Men" />
+
+            <RadioButton
+                android:id="@+id/catwomen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/Women" />
+
+        </RadioGroup>
+
+        <EditText
+            android:id="@+id/color"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/color"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/size"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/size_xl_l_m"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/about"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:breakStrategy="balanced"
+            android:fitsSystemWindows="true"
+            android:gravity="top"
+            android:hint="@string/about_this_design"
+            android:inputType="textMultiLine"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:singleLine="false" />
+
+        <Button
+            android:id="@+id/addphotobutton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/add_photo" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:elevation="4dp"
+            android:paddingLeft="70dp"
+            android:paddingRight="70dp"
+            android:text="@string/submit"
+            android:textColor="#fff"
+            android:layout_marginBottom="100dp"/>
+
+
+    </LinearLayout>
+</ScrollView>
+
